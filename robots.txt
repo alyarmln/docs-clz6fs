@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-frj485.tvmatches.com/sitemap.xml
